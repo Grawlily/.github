@@ -1,6 +1,8 @@
 # Grawlily
   
-[![Grawlily_image](https://github.com/Grawlily/.github/blob/main/profile/grawlily_lie.png)](https://github.com/Grawlily)
+<p align="center">
+  <img src="https://github.com/Grawlily/.github/blob/main/profile/grawlily_lie.png">
+</p>
   
 ## 概要
 
